@@ -10,6 +10,6 @@ set guioptions-=r
 set guioptions-=L
 
 " Default gui font
-set guifont=DejaVu\ Sans\ Mono:h13
+set guifont=DejaVu\ Sans\ Mono
 
 " vim:set ft=vim et sw=2:
